@@ -6,7 +6,7 @@ This repository contains two key financial analysis projects:
 1. **Corporate Default Prediction** – A machine learning model to predict whether a company will default on its financial obligations using balance sheet data.
 2. **Market Risk Analysis** – A statistical analysis of Indian stock market data to evaluate risk and return trends for better investment decisions.
 
-Both projects utilize **Python, SQL, and machine learning techniques** to derive insights that assist businesses and investors in making data-driven financial decisions.
+Both projects utilize **Python and machine learning techniques** to derive insights that assist businesses and investors in making data-driven financial decisions.
 
 ---
 
